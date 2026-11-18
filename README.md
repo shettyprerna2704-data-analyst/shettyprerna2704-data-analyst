@@ -1,16 +1,14 @@
-## Hi there 👋
+# Prerna-Shetty
+# Hey there! 👋
 
-<!--
-**shettyprerna2704-data-analyst/shettyprerna2704-data-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Prerna**, a Data Analyst with an MSc in Business Analytics.
 
-Here are some ideas to get you started:
+I've worked across healthcare and research publishing, analysing complex datasets to uncover insights, evaluate programmes, and support better decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My most notable work so far is delivering analysis that identified key drivers of disengagement in the UK's National Health Service (NHS) Gambling Treatment services and  participating in discussions for targeted service interventions.
+
+My main tools are Python, SQL, Power BI, Tableau, and Excel.
+
+I'm particularly interested in healthcare analytics, statistical modelling, interpretable machine learning and ethical AI.
+
+🔗 [LinkedIn](https://www.linkedin.com/in/shettyprerna) · 📧 [Email](mailto:prernashetty.049@gmail.com)
