@@ -1,5 +1,4 @@
-# Prerna-Shetty
-# Hey there! 👋
+# Hey there! 
 
 I'm **Prerna**, a Data Analyst with an MSc in Business Analytics.
 
