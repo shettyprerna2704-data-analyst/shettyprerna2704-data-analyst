@@ -1,6 +1,6 @@
 # Hey there! 
 
-I'm **Prerna**, a Data Analyst with an MSc in Business Analytics.
+I'm **Prerna**, a Data Analyst with an Master's in Business Analytics.
 
 I've worked across healthcare and research publishing, analysing complex datasets to uncover insights, evaluate programmes, and support better decision-making.
 
